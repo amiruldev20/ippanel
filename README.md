@@ -2,7 +2,8 @@
 # LIST IP DOCKER
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 
-## docker: ghcr.io/amiruldev20/nodevip
+## docker: ghcr.io/amiruldev20/nodevip:versi
+### versi ubah 14/16/18 sesuai node yang anda inginkan
  
  <p align="center">
 <img width="" src="img2.jpeg">
