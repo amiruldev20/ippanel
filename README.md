@@ -6,6 +6,9 @@
 ### versi ubah 14/16/18 sesuai node yang anda inginkan
  
  <p align="center">
+
+![MY VISITOR](https://komarev.com/ghpvc/?username=amiruldev20&color=green)
+
 <img width="" src="img2.jpeg">
 <img width{"" src="img1.jpeg">
 </p>
