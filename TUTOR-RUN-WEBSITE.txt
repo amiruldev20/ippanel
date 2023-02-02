@@ -1,1 +1,22 @@
-comingsoon
+# CARA INI KHUSUS PENGGUNA DOCKER SAYA YANG VIP
+
+SILAHKAN START SC WEB ANDA TERLEBIH DAHULU DENGAN PM2
+MISAL:
+- cd folder
+- npm i
+- pm2 start "npm start" --name namanya
+- cd $home
+
+lalu lanjutkan perintah dibawah
+
++ LOGIN CLOUDFLARE
+./cr tunnel login
+
++ ATUR TUNNEL
+./cr tunnel create namatunnel
+
++ RECORD CNAME
+./cr tunnel route dns namatunnel domainkita.com
+
++ START WEB
+./cr tunnel run --url http://localhost:port namatunnel
