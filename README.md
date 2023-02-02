@@ -3,6 +3,9 @@
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
 
+## Tutorial
+run website [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR-RUN-WEBSITE.txt)
+
 ## docker: ghcr.io/amiruldev20/nodevip:versi
 ### versi ubah 14/16/18 sesuai node yang anda inginkan
  
