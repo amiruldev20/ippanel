@@ -1,6 +1,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # LIST IP DOCKER
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
+<p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
 
 ## docker: ghcr.io/amiruldev20/nodevip:versi
 ### versi ubah 14/16/18 sesuai node yang anda inginkan
