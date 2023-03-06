@@ -15,8 +15,7 @@ run website [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR
 
 ![MY VISITOR](https://komarev.com/ghpvc/?username=amiruldev20&color=green)
 
-<img width="" src="img2.jpeg">
-<img width{"" src="img1.jpeg">
+<img width="" src="new.jpg">
 </p>
 
  > **Note**:  Docker premium hanya bisa di akses oleh ip yang terdaftar dibawah
