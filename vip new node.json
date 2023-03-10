@@ -1,0 +1,33 @@
+{
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "meta": {
+        "version": "PTDL_v2",
+        "update_url": null
+    },
+    "exported_at": "2023-03-09T10:48:41+07:00",
+    "name": "NODEJS PREMIUM - AMIRUL DEV",
+    "author": "amiruldev20@gmail.com",
+    "description": "egg nodejs pterodactyl nodejs v18, auto install speedtest, ffmpeg, imagemagick",
+    "features": null,
+    "docker_images": {
+        "NODEJS 14 NEW": "ghcr.io\/amiruldev20\/vip:14",
+        "NODEJS 16 NEW": "ghcr.io\/amiruldev20\/vip:16",
+        "NODEJS 18 NEW": "ghcr.io\/amiruldev20\/vip:18"
+    },
+    "file_denylist": [],
+    "startup": "SILAHKAN START SERVER, JALANKAN SEMUA PERINTAH DI COMMAND !!",
+    "config": {
+        "files": "{}",
+        "startup": "{\r\n    \"done\": \"running\"\r\n}",
+        "logs": "{}",
+        "stop": "^^c"
+    },
+    "scripts": {
+        "installation": {
+            "script": "# YNTKTS WKWK\r\n# IDUP JANGAN KEBANYAKAN RECODE :)\r\n# FOLLOW IG @amirul.dev",
+            "container": "node:18-buster-slim",
+            "entrypoint": "bash"
+        }
+    },
+    "variables": []
+}
