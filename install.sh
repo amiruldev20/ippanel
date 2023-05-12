@@ -1,4 +1,4 @@
-# AUTO INSTALL DXCP
+# AUTO INSTALL DXCP.
 echo "installing nvm.."
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 echo "add path nvm.."
