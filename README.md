@@ -5,7 +5,7 @@
 
 info update [klik disini](https://chat.whatsapp.com/EhB5dMGDFFJBzWiL9y8oN3)
 
-## Tutorial
+## Tutorial.
 run website [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR-RUN-WEBSITE.txt)
 
 ## docker: ghcr.io/amiruldev20/vip:versi
