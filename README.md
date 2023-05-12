@@ -1,5 +1,5 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-# LIST IP DOCKER..
+# LIST IP DOCKER
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
 
