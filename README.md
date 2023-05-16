@@ -3,7 +3,7 @@
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
 
-info update [klik disini](https://chat.whatsapp.com/EhB5dMGDFFJBzWiL9y8oN3)
+# new panel vvip (bukan ptero) goldsrv.com
 
 ## Tutorial.
 run website [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR-RUN-WEBSITE.txt)
