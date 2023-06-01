@@ -1,16 +1,23 @@
+#!/bin/bash
+
 # AUTO INSTALL DXCP.
-echo "installing nvm.."
+
+echo "Installing nvm..."
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-echo "add path nvm.."
 source ~/.profile
-echo "installing nodejs V19.8.1..."
-nvm i v19.8.1
-nvm install --tls
-echo "installing pm2..."
-npm i pm2
-echo "export path pm2"
-mkdir ~/.bin
-ln -s ~/node_modules/pm2/bin/pm2 ~/bin/pm2
-echo 'export PATH=$PATH:~/bin' >> ~/.bashrc
+
+echo "Installing Node.js v19.8.1..."
+nvm install v19.8.1
+nvm use v19.8.1
+nvm install --latest-npm
+
+echo "Installing pm2..."
+npm install pm2 -g
+
+echo "Exporting pm2 path..."
+mkdir -p ~/.bin
+ln -s ~/node_modules/pm2/bin/pm2 ~/.bin/pm2
+echo 'export PATH=$PATH:~/.bin' >> ~/.bashrc
 source ~/.bashrc
-echo "done!!"
+
+echo "Installation completed!"
