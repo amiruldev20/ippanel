@@ -1,1 +1,1 @@
-chown clp /home/clp/htdocs/app/files/public/assets/css/*
+rm /home/clp/htdocs/app/files/var/cache/prod/twig/* -rf
