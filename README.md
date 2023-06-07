@@ -1,6 +1,8 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # LIST IP DOCKER.
-## project ini diberhentikan karena saya sudah tidak memakai ptero. alasan ada bug yang bisa curi sc dari luar tanpa login seperti ss dibawah. itulah mengapa docker saya ke maling dan dijual ulang bocil
+## project ini diberhentikan karena saya sudah tidak memakai ptero. alasan ada bug yang bisa curi sc dari luar tanpa login seperti ss dibawah. itulah mengapa docker saya ke maling dan dijual ulang bocil. sekarang saya membuat panel versi terbaru, support web python, js, html, php dll seperti dibawah
+
+<img src="ttps://raw.githubusercontent.com/amiruldev20/ippanel/main/Screenshot_20230607-134836.png">
 
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
@@ -9,6 +11,9 @@
 
 ## Tutorial.
 run website [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR-RUN-WEBSITE.txt)
+
+## ss panel baru non ptero
+<img src="img">
 
 ## docker: ghcr.io/amiruldev20/vip:versi
 ### versi ubah 14/16/18 sesuai node yang anda inginkan
