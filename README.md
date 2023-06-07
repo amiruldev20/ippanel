@@ -2,7 +2,7 @@
 # LIST IP DOCKER.
 ## project ini diberhentikan karena saya sudah tidak memakai ptero. alasan ada bug yang bisa curi sc dari luar tanpa login seperti ss dibawah. itulah mengapa docker saya ke maling dan dijual ulang bocil. sekarang saya membuat panel versi terbaru, support web python, js, html, php dll seperti dibawah
 
-<img src="ttps://raw.githubusercontent.com/amiruldev20/ippanel/main/Screenshot_20230607-134836.png">
+<img src="Screenshot_20230607-134836.png">
 
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
