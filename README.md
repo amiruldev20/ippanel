@@ -13,7 +13,7 @@
 run website [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR-RUN-WEBSITE.txt)
 
 ## ss panel baru non ptero
-<img src="img">
+<img src="Screenshot_20230607-085043.png">
 
 ## docker: ghcr.io/amiruldev20/vip:versi
 ### versi ubah 14/16/18 sesuai node yang anda inginkan
