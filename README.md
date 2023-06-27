@@ -1,28 +1,18 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # LIST IP DOCKER.
-## project ini diberhentikan karena saya sudah tidak memakai ptero. alasan ada bug yang bisa curi sc dari luar tanpa login seperti ss dibawah. itulah mengapa docker saya ke maling dan dijual ulang bocil. sekarang saya membuat panel versi terbaru, support web python, js, html, php dll seperti dibawah
-
 <img src="Screenshot_20230607-134836.png">
 
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
 
-# new panel vvip (bukan ptero) goldsrv.com
+## New Panel Non Ptero
+1. DpanelCP V1 [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR-RUN-WEBSITE.txt)
+2. DpanelCP V2 [klik disini](url.com)
 
-## Tutorial.
-run website [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR-RUN-WEBSITE.txt)
-
-## ss panel baru non ptero
-<img src="Screenshot_20230607-063714.png">
-
-## docker: ghcr.io/amiruldev20/vip:versi
-### versi ubah 14/16/18 sesuai node yang anda inginkan
- 
  <p align="center">
 
 ![MY VISITOR](https://komarev.com/ghpvc/?username=amiruldev20&color=green)
 
-<img width="" src="new.jpg">
 </p>
 
  > **Note**:  Docker premium hanya bisa di akses oleh ip yang terdaftar dibawah
