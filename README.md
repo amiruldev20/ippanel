@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # LIST IP DOCKER.
-<img src="Screenshot_20230607-134836.png">
+<img src="dockerv2.jpg">
 
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
@@ -18,6 +18,8 @@
  > **Note**:  Docker premium hanya bisa di akses oleh ip yang terdaftar dibawah
  
  # DOCKER VIP INCLUDE
+ - AUTO EXPIRED
+ - MENU INSTALL
  - SUPPORT RUN WEBSITE
  - Puppeter
  - speedtest
