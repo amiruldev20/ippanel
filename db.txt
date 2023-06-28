@@ -3,4 +3,4 @@
 # wa: 085157489446
 
 IP    | TGL/BLN/THN  |  NAMA
-139.162.8.129|22/06/2023|Silmi Server
+139.162.12.223|28/07/2023|Gold Server Basic
