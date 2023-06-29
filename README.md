@@ -1,6 +1,10 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-# LIST IP DOCKER.
-<img src="dockerv2.jpg">
+
+## Akses Docker (Update full Auto)
+ > **Note**:  Database ip ada di file db.txt
+> 
+<img src="ss1.jpg">
+<img src="ss2.jpg">
 
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
@@ -14,8 +18,6 @@
 ![MY VISITOR](https://komarev.com/ghpvc/?username=amiruldev20&color=green)
 
 </p>
-
- > **Note**:  Docker premium hanya bisa di akses oleh ip yang terdaftar dibawah
  
  # DOCKER VIP INCLUDE
  - AUTO EXPIRED
