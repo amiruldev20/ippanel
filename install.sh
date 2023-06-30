@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# AUTO INSTALL DXCP.
-
 echo "Installing nvm..."
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-source ~/.profile
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+source ~/.bashrc
 
 echo "Installing Node.js v19.8.1..."
 nvm install v19.8.1
