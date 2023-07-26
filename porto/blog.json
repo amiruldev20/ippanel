@@ -12,9 +12,7 @@
       ],
       "description":"comingsoon 1",
       "publish":true,
-      "markdown":"[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-## Soon",
+      "markdown":"[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)\n## Soon",
       "markup":"markup 1"
    },
   {
