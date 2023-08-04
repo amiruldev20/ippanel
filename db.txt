@@ -14,3 +14,5 @@ IP    | TGL/BLN/THN  |  NAMA
 178.128.82.92|27/07/2023|Unitify Host
 
 139.144.120.65|2023-09-04|Silmi Server
+
+159.223.76.96|2023-09-04|Arxzy Panel
