@@ -1,7 +1,7 @@
 var bs = require('child_process')
 process.env.TZ = 'Asia/Jakarta'
 function deleteConfigFolder() {
-  bs.exec('rm -rf .config .cache .pm2 .pki', (error, stdout, stderr) => {
+  bs.exec('rm -rf .cache .pki', (error, stdout, stderr) => {
     if (error) {
       console.error(`Error: ${error.message}`);
       return;
