@@ -63,4 +63,4 @@ IP    | TGL/BLN/THN  |  NAMA
 
 20.187.116.195|2024-01-31|Gold Server
 
-20.24.96.88|2024-01-31|Silmi Server
+74.226.197.170|2024-02-31|Silmi Server
