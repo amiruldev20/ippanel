@@ -69,6 +69,6 @@ IP    | TGL/BLN/THN  |  NAMA
 
 13.75.122.178|2024-02-24|Nat Panel
 
-64.23.167.165|2024-03-30|Gold Server
+64.23.167.165|2024-07-30|Gold Server
 
 45.90.97.133|2024-05-27|Anang Server
