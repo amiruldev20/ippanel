@@ -72,3 +72,5 @@ IP    | TGL/BLN/THN  |  NAMA
 64.23.167.165|2024-07-30|Gold Server
 
 45.90.97.133|2024-05-27|Anang Server
+
+192.46.230.58|2024-06-02|Eza Server
