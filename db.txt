@@ -74,3 +74,5 @@ IP    | TGL/BLN/THN  |  NAMA
 45.90.97.133|2024-05-27|Anang Server
 
 192.46.230.58|2024-06-02|Eza Server
+
+43.228.213.80|2024-01-05|Kotori Server
