@@ -76,3 +76,4 @@ IP    | TGL/BLN/THN  |  NAMA
 185.117.0.41|2024-06-29|Anangg Server
 
 43.228.213.80|2024-05-29|Kotori Server
+45.13.226.85|2024-06-29|Ananglagi
