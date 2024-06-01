@@ -80,3 +80,5 @@ IP    | TGL/BLN/THN  |  NAMA
 45.13.226.85|2024-06-29|Ananglagi
 
 170.64.210.245|2024-07-31|Gold Server 2
+
+139.162.109.40|2024-07-30|Gabrielhrzz
