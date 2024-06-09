@@ -1,23 +1,8 @@
 #!/bin/bash
 #!/usr/bin/env bash
 
-########################################################################
-#                                                                      #
-#            Pterodactyl Installer, Updater, Remover and More          #
-#            Copyright 2022, Malthe K, <me@malthe.cc>                  # 
-# https://github.com/guldkage/Pterodactyl-Installer/blob/main/LICENSE  #
-#                                                                      #
-#  This script is not associated with the official Pterodactyl Panel.  #
-#  You may not remove this line                                        #
-#                                                                      #
-########################################################################
-
 dist="$(. /etc/os-release && echo "$ID")"
 version="$(. /etc/os-release && echo "$VERSION_ID")"
-
-
-### This script is meant to be used: ###
-### ./install.sh <FQDN/URL to panel> <SSL true or false> <email> <username> <firstname> <lastname> <password> <wings true or false> ###
 
 finish(){
     clear
