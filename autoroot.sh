@@ -19,6 +19,7 @@ echo -e "Masukkan Hostname baru:"
 read new_hostname
 hostnamectl set-hostname "$new_hostname"
 banner_file="/etc/motd"
+echo "clear" > "$banner_file"
 echo "============================================" > "$banner_file"
 echo "Welcome to $new_hostname VPS" >> "$banner_file"
 echo "Managed by amiruldev" >> "$banner_file"
