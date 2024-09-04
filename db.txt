@@ -81,7 +81,7 @@ IP    | TGL/BLN/THN  |  NAMA
 
 170.64.210.245|2024-07-31|Gold Server 2
 
-157.245.206.228|2024-10-30|Gabrielhrzz
+157.245.206.228|2024-10-29|Gabrielhrzz
 
 152.42.236.180|2024-07-30|Raa Vychnn
 
