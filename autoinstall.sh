@@ -1,6 +1,6 @@
 #!/bin/bash
 #!/usr/bin/env bash
-
+# tes
 dist="$(. /etc/os-release && echo "$ID")"
 version="$(. /etc/os-release && echo "$VERSION_ID")"
 
