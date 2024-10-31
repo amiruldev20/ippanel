@@ -43,7 +43,7 @@ IP    | TGL/BLN/THN  |  NAMA
 
 172.233.227.129|2023-12-31|Basic Server
 
-172.232.224.106|2023-12-31|Guntur Panel
+157.245.206.228|2025-12-31|Guntur Panel
 
 45.79.220.130|2023-12-31|Portal Gold
 
